@@ -1,4 +1,4 @@
-.cache/
-.git/
-.idea/
-/dist/
+.cache
+.git
+.idea
+/dist
